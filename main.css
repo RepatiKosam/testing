@@ -8,20 +8,23 @@
 }
 .new{
     min-width: 100%;
-    margin-bottom: 4px;
+    margin: 5px 0;
 }
 .task{
     min-width: 100%;
     background-color: white;
-    margin: 2px 0;
-    padding: 2px;
-    border-radius: 3px;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px gray;
 }
 h1{
-    margin-bottom: 2px;
+    text-align: center;
+    margin: 2px 0;
 }
 p{
     font-size: 1.2em;
+    margin: 8px 0;
 }
 button{
     padding: 5px;
